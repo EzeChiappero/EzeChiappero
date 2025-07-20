@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzeChiappero
-- 👀 I’m interested in Data Analysis, especially applied to finance. I invest (and live) with a value approach. Love nature, I live in the fields, working remotely.
+- 👀 I’m interested in Data Analysis, especially applied to finance. I invest (and live) with a value approach. Love nature, I live in the mountains, working remotely.
 - 🌱 I’m currently learning SQL, R, and Python for Data Analysis (Pandas, Matplotlib)
 - 💞️ I’m looking to collaborate on Finance, Agribusiness problems.
 - 📫 How to reach me enchiappero@gmail.com
